@@ -1,0 +1,7 @@
+apiVersion: sources.manny2014/v1alpha1
+kind: SampleSource
+metadata:
+  name: samplesource-sample
+spec:
+  # Add fields here
+  foo: bar

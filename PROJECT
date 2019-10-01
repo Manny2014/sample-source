@@ -1,0 +1,7 @@
+version: "2"
+domain: manny2014
+repo: github.com/manny2014/sample-source
+resources:
+- group: sources
+  version: v1alpha1
+  kind: SampleSource
